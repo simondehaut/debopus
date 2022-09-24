@@ -5,7 +5,7 @@
 ██████████████─██─█─▄▄███─▄▄─█─██─██─▄▄▄██─██─██▄▄▄▄─█
 █████████████▄▄▄▄██▄▄▄▄█▄▄▄▄██▄▄▄▄█▄▄▄████▄▄▄▄██▄▄▄▄▄█
 
-# nomis arch installer
+# nomis debian installer
 
 - asus ux302l
 - uefi, ext4 root, ext4 home, plasma, nvidia drivers
@@ -13,19 +13,21 @@
 
 ## instructions
 
-1. connection
+1. debian baremetal net install (dont select "debian desktop environnement")
+
+2. connection
 
 - eth wire up
 
-2. git clone this repo
+3. git clone this repo
 
-3. install setup as root
+4. install setup as root
 
 ```bash
 chmod +x ./install.sh
 ./install.sh
 ```
 
-4. config
+5. config
 
 - import dotfiles and files... 
