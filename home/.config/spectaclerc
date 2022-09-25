@@ -1,0 +1,17 @@
+[$Version]
+update_info=spectacle_newConfig.upd:spectacle-new-config
+
+[General]
+copyImageToClipboard=true
+printKeyActionRunning=StartNewInstance
+
+[GuiConfig]
+captureMode=5
+
+[KFileDialog Settings]
+detailViewIconSize=16
+
+[Save]
+compressionQuality=99
+copySaveLocation=false
+defaultSaveLocation=file:///home/nomis/Images/screenshots

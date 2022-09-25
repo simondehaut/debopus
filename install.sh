@@ -134,6 +134,7 @@ apt install -y dos2unix
 apt install -y scrcpy
 apt install -y jq
 apt install -y scrcpy
+apt install -y solaar
 
 # power management
 apt install -y powerdevil

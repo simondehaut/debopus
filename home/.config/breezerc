@@ -1,0 +1,6 @@
+[Common]
+OutlineCloseButton=false
+ShadowSize=ShadowMedium
+
+[Windeco]
+DrawBackgroundGradient=false

@@ -1,0 +1,9 @@
+[Show]
+compressfileitemaction=true
+extractfileitemaction=true
+installFont=false
+kactivitymanagerd_fileitem_linking_plugin=true
+openTerminalHere=true
+runInKonsole=true
+sharefileitemaction=false
+tagsfileitemaction=true

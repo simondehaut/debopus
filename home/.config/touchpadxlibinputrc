@@ -1,0 +1,4 @@
+[ETPS/2 Elantech Touchpad]
+naturalScroll=true
+pointerAcceleration=0.2
+tapToClick=true

@@ -1,0 +1,39 @@
+[CompactMode]
+FontWeight=50
+
+[DetailsMode]
+FontWeight=50
+
+[General]
+EditableUrl=true
+OpenExternallyCalledFolderInNewTab=false
+RememberOpenedTabs=false
+ShowFullPath=true
+ShowFullPathInTitlebar=true
+Version=200
+ViewPropsTimestamp=2022,9,25,22,33,25
+
+[IconsMode]
+FontWeight=50
+
+[KPropertiesDialog]
+Virtual1 Height 768=444
+Virtual1 Width 1024=374
+
+[MainWindow]
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+ToolBarsMovable=Disabled
+Virtual1 Height 768=500
+Virtual1 Height 856=515
+Virtual1 Width 1024=750
+Virtual1 Width 1601=897
+Virtual1 XPosition=388
+Virtual1 YPosition=146
+
+[PreviewSettings]
+Plugins=comicbookthumbnail,kraorathumbnail,opendocumentthumbnail,directorythumbnail,windowsexethumbnail,audiothumbnail,fontthumbnail,djvuthumbnail,imagethumbnail,exrthumbnail,jpegthumbnail,windowsimagethumbnail,svgthumbnail,ebookthumbnail
+
+[SettingsDialog]
+Virtual1 Height 856=440
+Virtual1 Width 1601=870
