@@ -307,9 +307,8 @@ apt install -y npm
 # peerflix
 npm -g install --quiet peerflix
 
-# @TODO
 # copy files from git to home folder and init
-#cp -R /home/nomis/debian-preparator/me-xfce/home/{.,}* /home/nomis/
+cp -R /home/nomis/debopus/home/{.,}* /home/nomis/
 
 # give to Caesar what belongs to Caesar
 chown -R nomis /home/nomis/{,.}*
