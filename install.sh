@@ -86,6 +86,7 @@ apt install -y linux-headers-$(uname -r) -y
 apt install -y software-properties-common -y
 
 # firmwares and system prerequisites
+apt install -y firmware-iwlwifi
 apt install -y firmware-realtek
 apt install -y laptop-mode-tools
 apt install -y wireless-tools
