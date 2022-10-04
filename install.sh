@@ -20,6 +20,12 @@ deb-src http://security.debian.org/debian/ bullseye-updates main contrib non-fre
 
 EOF
 
+# or :
+# apt update -y
+# apt install -y software-properties-common
+# apt-add-repository non-free
+# apt update -y
+
 # update & upgrade
 apt update -y
 apt upgrade -y
