@@ -246,9 +246,9 @@ apt install -y ./qview_5.0.1-focal4_amd64.deb
 rm ./qview_5.0.1-focal4_amd64.deb
 
 # teamviewer
-wget https://download.teamviewer.com/download/linux/teamviewer_amd64.deb
-apt install -y ./teamviewer_amd64.deb
-rm ./teamviewer_amd64.deb
+#wget https://download.teamviewer.com/download/linux/teamviewer_amd64.deb
+#apt install -y ./teamviewer_amd64.deb
+#rm ./teamviewer_amd64.deb
 
 # veracrypt
 wget https://launchpad.net/veracrypt/trunk/1.25.9/+download/veracrypt-1.25.9-Debian-11-amd64.deb
